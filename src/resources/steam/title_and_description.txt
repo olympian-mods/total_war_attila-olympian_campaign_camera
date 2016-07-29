@@ -1,0 +1,21 @@
+TITLE
+-----
+
+Olympian Campaign Camera
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod description[/h1]
+
+A campaign camera mod for Total War: Attila with adjusted height parameters.
+It allows the camera to zoom further out on the campaign map and a bit closer down to ground level.
+
+
+[h1]Miscellaneous[/h1]
+[list]
+[*] If you feel adventurous you can also try the "Extreme Edition" of this mod [url=http://steamcommunity.com/sharedfiles/filedetails/?id=439382629]here[/url] in the Steam Workshop
+[*] See [url=http://steamcommunity.com/sharedfiles/filedetails/?id=434324718]here[/url] for a battle camera mod in the Steam Workshop
+[*] Thanks to miTo82, LEGIO_VII_Claud, [NAF]helmersen and RexJayden for testing!
+[/list]
